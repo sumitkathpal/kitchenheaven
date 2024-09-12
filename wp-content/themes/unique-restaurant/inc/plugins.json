@@ -1,0 +1,12 @@
+[{
+  "name": "ElementsKit Lite",
+  "slug": "elementskit-lite",
+  "required": false,
+  "force_activation": false
+},{
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}
+]
